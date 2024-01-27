@@ -1,8 +1,7 @@
 
 <div align="center">
-    <img src="https://github.com/ankithshetty17/ankithshetty17/assets/85435501/d474dce2-6dd9-48f4-b1d4-df918a33656a" style="width: 100%;" alt="Ankith Shetty">
+    <img src="https://github.com/ankithshetty17/ankithshetty17/assets/85435501/d474dce2-6dd9-48f4-b1d4-df918a33656a" style="width: 100%; max-height: 200px;" alt="Ankith Shetty">
 </div>
-
 
 <h1 align="center">Aayo👋, I'm Ankith</h1>
 <h3 align="center">A Passionate Frontend Developer.</h3>
