@@ -1,7 +1,4 @@
 
-![ace1](https://github.com/ankithshetty17/ankithshetty17/assets/85435501/bc763248-e8f9-4eb3-a0ad-a8b7d5fe2ae6)
-
-
 <h1 align="center">Aayo👋, I'm Ankith</h1>
 <h3 align="center">A Passionate Frontend Developer.</h3>
 
