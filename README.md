@@ -1,6 +1,5 @@
 
 <p align="center">
-    <img src="https://github.com/ankithshetty17/ankithshetty17/assets/85435501/d474dce2-6dd9-48f4-b1d4-df918a33656a"alt="Ankith Shetty">
 </p>
 
 <h1 align="center">Aayo👋, I'm Ankith</h1>
