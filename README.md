@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter ,React.js,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://ankithshetty17.github.io/Portfolio/](https://ankithshetty17.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ankith-shetty.web.app/](https://ankith-shetty.web.app)
 
 - 📫 How to reach me **ankishetty2002@gmail.com**
 
